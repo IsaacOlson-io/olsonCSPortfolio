@@ -292,6 +292,11 @@
         top: 450px;
         padding-bottom: 16px;
       }
+      .bottomLink5{
+        position: relative;
+        top: 805px;
+        padding-bottom: 16px;
+      }
       #shiftUp{
         margin-bottom: -38px;
       }
